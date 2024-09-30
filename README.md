@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey! I’m a Computer Science student at the University of Westminster. I have a strong interest in programming and web development. I’m passionate about computers and love to play games in my free time.<br><br>Currently, I’m working on a few web development projects and learning new skills. <br>I’m looking to collaborate on beginner-friendly projects that aren’t too complex or overwhelming for a newbie like me. 😅
+👋 Hey! I’m a Computer Science student at the University of Westminster. I have a strong interest in programming and web development. I’m passionate about computers and love to play video games in my free time.<br><br>Currently, I’m working on a few web development projects and learning new skills. <br>I’m looking to collaborate on beginner-friendly projects that aren’t too complex or overwhelming for a newbie like me. 😅
 
 
 ## 🌐 Socials:
