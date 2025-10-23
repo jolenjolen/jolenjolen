@@ -1,15 +1,15 @@
 # 💫 About Me:
 
-👋 Hey there, curious wanderer of the internet
-I’m a Visionary Web Developer and Computer Scientist — the kind of person who talks to computers more than humans (they usually listen better).
-Currently climbing my way up the tech food chain, one caffeine-fueled commit at a time (I don't drink coffee, just natural tea).
+👋 Hey there, curious wanderer of the internet<br>
+I’m a Visionary Web Developer and Computer Scientist — the kind of person who talks to computers more than humans (they usually listen better).<br>
+Currently climbing my way up the tech food chain, one caffeine-fueled commit at a time (I don't drink coffee, just natural tea).<br>
 
-💼 Co-Founder @ DiolenWeb & Gate of Goa
-🎓 Founder and President @ Westminster Archives
-🧠 I build web projects that hopefully won’t break in production (but let’s be honest, we all live in denial).
-🤝 Looking to collaborate on projects that are interesting enough to justify the inevitable mental breakdowns.
-📫 Contact: Use your OSINT skills to find my email — if you succeed, we’ll probably get along.
-😈 Fun fact: My code works perfectly… until someone looks at it.
+💼 Co-Founder @ DiolenWeb & Gate of Goa<br>
+🎓 Founder and President @ Westminster Archives<br>
+🧠 I build web projects that hopefully won’t break in production (but let’s be honest, we all live in denial).<br>
+🤝 Looking to collaborate on projects that are interesting enough to justify the inevitable mental breakdowns.<br>
+📫 Contact: Use your OSINT skills to find my email — if you succeed, we’ll probably get along.<br>
+😈 Fun fact: My code works perfectly… until someone looks at it.<br>
 
 
 ## 🌐 Socials:
